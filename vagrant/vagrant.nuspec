@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>vagrant</id>
+    <version>1.0.10</version>
+    <title>Vagrant</title>
+    <authors>Mitchell Hashimoto and John Bender</authors>
+    <owners>Patrick Wyatt</owners>
+    <summary>Vagrant is a tool for building complete development environments using virtual machines.</summary>
+    <description>Vagrant is a tool for building complete development environments using virtual machines. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases development/production parity, and makes the "works on my machine" excuse a relic of the past.</description>
+    <projectUrl>http://vagrantup.com</projectUrl>
+    <tags>vagrant virtual machine VM</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/webcoyote/chocolatey-packages/master/vagrant/vagrant.png</iconUrl>
+    <dependencies>
+      <dependency id="virtualbox" version="4.2.6" />
+    </dependencies>
+  </metadata>
+</package>
