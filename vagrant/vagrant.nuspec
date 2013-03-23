@@ -12,8 +12,5 @@
     <tags>vagrant virtual machine VM</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://raw.github.com/webcoyote/chocolatey-packages/master/vagrant/vagrant.png</iconUrl>
-    <dependencies>
-      <dependency id="virtualbox" version="4.2.6" />
-    </dependencies>
   </metadata>
 </package>
