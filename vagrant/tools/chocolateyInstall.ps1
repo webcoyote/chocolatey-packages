@@ -1,11 +1,11 @@
 try {
-  # Vagrant 1.0.6
-  $url = 'http://files.vagrantup.com/packages/476b19a9e5f499b5d0b9d4aba5c0b16ebe434311/Vagrant.msi'
+  # Vagrant 1.1.2
+  $url = 'http://files.vagrantup.com/packages/67bd4d30f7dbefa7c0abc643599f0244986c38c8/Vagrant.msi'
   $packageName = 'vagrant'
   $installerType = 'msi'
   $url64 = $url
   $silentArgs = '/quiet'
-  $validExitCodes = @(0)	
+  $validExitCodes = @(0)
 
   # Configure install location
   if ($env:chocolatey_bin_root -ne $null) {
