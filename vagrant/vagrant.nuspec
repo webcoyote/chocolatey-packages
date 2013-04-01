@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>vagrant</id>
-    <version>1.1.2</version>
+    <version>1.1.4</version>
     <title>Vagrant</title>
     <authors>Mitchell Hashimoto and John Bender</authors>
     <owners>Patrick Wyatt</owners>
@@ -11,6 +11,6 @@
     <projectUrl>http://vagrantup.com</projectUrl>
     <tags>vagrant virtual machine VM</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.github.com/webcoyote/chocolatey-packages/master/vagrant/vagrant.png</iconUrl>
+    <iconUrl>http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo-8b7a4912.png</iconUrl>
   </metadata>
 </package>
