@@ -1,6 +1,6 @@
 try {
-  # Vagrant 1.1.4
-  $url = 'http://files.vagrantup.com/packages/87613ec9392d4660ffcb1d5755307136c06af08c/Vagrant.msi'
+  # Vagrant 1.1.5
+  $url = 'http://files.vagrantup.com/packages/64e360814c3ad960d810456add977fd4c7d47ce6/Vagrant.msi'
   $packageName = 'vagrant'
   $installerType = 'msi'
   $url64 = $url
