@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>cwrsync</id>
+    <version>4.0.5</version>
+    <title>cwRsync Free edition</title>
+    <authors>ITeFix</authors>
+    <owners>Patrick Wyatt</owners>
+    <summary>cwRsync is a packaging of Rsync for Windows. You can use cwRsync for fast remote file backup and synchronization. </summary>
+    <description>Rsync uses the Rsync algorithm which provides a very fast method for bringing remote files into sync. It does this by sending just the differences in the files across the link, without requiring that both sets of files are present at one of the ends of the link beforehand. At first glance this may seem impossible because the calculation of diffs between two files normally requires local access to both files. See https://www.itefix.no/i2/content/compare-cwrsync for a comparison of the features available for cwRsync vs. cwRsync Free edition</description>
+    <projectUrl>https://www.itefix.no/i2/content/cwrsync-free-edition</projectUrl>
+    <tags>rsync cwRsync file synchronize synchronization</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
