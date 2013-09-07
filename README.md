@@ -6,4 +6,9 @@ This is a repository of the packages I maintain for the [Chocolatey Package Mana
 
 Author:: Patrick Wyatt (pat@codeofhonor.com)
 
+# Contributors
+
+Contributor:: Alan Stevens (alanstevens@gmail.com)
+Contributor:: Rogerio Prado de Jesus (rogeriopradoj@gmail.com)
+
 [MIT License](https://github.com/webcoyote/chocolatey-packages/blob/master/LICENSE.md)
