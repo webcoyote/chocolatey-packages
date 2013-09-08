@@ -8,7 +8,7 @@
     <owners>Patrick Wyatt</owners>
     <summary>Vagrant is a tool for building complete development environments using virtual machines.</summary>
     <description>Vagrant is a tool for building complete development environments using virtual machines. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases development/production parity, and makes the "works on my machine" excuse a relic of the past.</description>
-    <projectUrl>http://vagrantup.com</projectUrl>
+    <projectUrl>http://www.vagrantup.com</projectUrl>
     <tags>vagrant virtual machine VM VirtualBox VMware</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo-8b7a4912.png</iconUrl>
