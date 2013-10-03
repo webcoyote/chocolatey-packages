@@ -7,7 +7,7 @@
     <authors>Mitchell Hashimoto, John Bender</authors>
     <owners>Patrick Wyatt</owners>
     <summary>Vagrant is a tool for building complete development environments using virtual machines.</summary>
-    <description>Vagrant is a tool for building complete development environments using virtual machines. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases development/production parity, and makes the "works on my machine" excuse a relic of the past. -- <a href="https://github.com/webcoyote/chocolatey-packages">Chocolatey GitHub repository</a></description>
+    <description>Vagrant is a tool for building complete development environments using virtual machines. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases development/production parity, and makes the "works on my machine" excuse a relic of the past.</description>
     <projectUrl>http://www.vagrantup.com</projectUrl>
     <tags>vagrant virtual machine VM VirtualBox VMware</tags>
     <licenseUrl>https://github.com/mitchellh/vagrant/blob/v1.3.4/LICENSE</licenseUrl>
