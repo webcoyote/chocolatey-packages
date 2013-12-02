@@ -1,5 +1,5 @@
-# Go [64 bit] [windows] [version 1.1.2]
-$url = 'https://go.googlecode.com/files/go1.1.2.windows-amd64.zip'
+# Go [64 bit] [windows] [version 1.2]
+$url = 'https://go.googlecode.com/files/go1.2.windows-amd64.zip'
 
 # Configure install location
 $dst = join-path $env:systemdrive $env:chocolatey_bin_root
