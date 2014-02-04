@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>cwrsync</id>
-    <version>4.0.5</version>
+    <version>5.2.2</version>
     <title>cwRsync Free edition</title>
     <authors>ITeFix</authors>
     <owners>Patrick Wyatt</owners>
