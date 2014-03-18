@@ -12,6 +12,6 @@
     <tags>vagrant virtual machine VM VirtualBox VMware</tags>
     <licenseUrl>https://github.com/mitchellh/vagrant/blob/v1.5.1/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <iconUrl>http://www.hashicorp.com/images/blog/a-new-look-for-vagrant/logo-8b7a4912.png</iconUrl>
+    <iconUrl>https://raw.github.com/webcoyote/chocolatey-packages/master/vagrant/vagrant.png</iconUrl>
   </metadata>
 </package>
