@@ -1,5 +1,5 @@
 $packageName = 'golang'
-$url = 'https://go.googlecode.com/files/go1.2.1.windows-amd64.msi'
+$url = 'https://storage.googleapis.com/golang/go1.2.2.windows-amd64.msi'
 $url64 = $url
 $validExitCodes = @(0)
 
