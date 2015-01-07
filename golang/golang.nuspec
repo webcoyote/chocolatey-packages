@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>golang</id>
-    <version>1.2.2</version>
+    <version>1.3</version>
     <title>Go programming language</title>
     <authors>Robert Griesemer, Rob Pike, Ken Thompson</authors>
     <owners>Patrick Wyatt</owners>
